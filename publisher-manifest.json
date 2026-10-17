@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "18d92a503f5dc2cda783eada",
+  "owner": "vgmxtstnana",
+  "repo": "page-0a25e2e21b737eda96a54055",
+  "title": "次元雲",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0a25e2e21b737eda96a54055",
+      "a": "次元雲",
+      "b": "",
+      "entity": "次元雲",
+      "brand": "次元雲",
+      "separator": "",
+      "path": "index.html",
+      "hash": "88d2f58315f012e733b866ab3faeb3152359e70441a1b9f6843b2b1b52a8e62d",
+      "content": {
+        "keyword1": "次元雲",
+        "keyword2": "",
+        "primary_entity": "次元雲",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "次元雲致力于提供稳定、私密、克制的网络中继服务。以专线质量与订阅体验为先，不喧嚣，不妥协。",
+          "AI_DESCRIPTION": "次元雲致力于提供稳定、私密、克制的网络中继服务。以专线质量与订阅体验为先，不喧嚣，不妥协。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--wine:#6E1423;--wine-deep:#4A0E18;--wine-light:#8C2235;--ivory:#F7F3ED;--cream:#EBE4D6;--text:#2B2B2B;--muted:#7A7A7A}\n*{box-sizing:border-box;margin:0;padding:0}\nbody{background:var(--ivory);color:var(--text);font-family:Georgia,'Songti SC','SimSun',serif;line-height:1.75;padding-bottom:72px}\nmain{max-width:1200px;margin:0 auto;padding:0 24px}\nh1,h2,h3{font-weight:700;color:var(--wine-deep)}\na{color:var(--wine);text-decoration:none;border-bottom:1px solid var(--wine-light)}\na:hover{background:var(--wine);color:var(--ivory)}\n\n/* Hero - 仪表盘式数据块拼贴 */\n.hero{background:var(--wine);color:var(--ivory);padding:80px 0 100px;margin-bottom:60px}\n.hero-inner{max-width:1200px;margin:0 auto;padding:0 24px}\n.hero h1{color:var(--ivory);font-size:3.2rem;line-height:1.15;margin-bottom:16px;letter-spacing:-1px}\n.hero .tagline{font-size:1.05rem;opacity:.8;max-width:480px;margin-bottom:48px;border-left:3px solid var(--wine-light);padding-left:16px}\n.dashboard{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}\n.tile{background:var(--wine-deep);padding:24px 20px;min-height:120px;display:flex;flex-direction:column;justify-content:space-between;position:relative;overflow:hidden}\n.tile.wide{grid-column:span 2}\n.tile.tall{grid-row:span 2}\n.tile .label{font-size:.75rem;letter-spacing:2px;text-transform:uppercase;opacity:.6}\n.tile .value{font-size:2rem;font-weight:700;font-family:'Courier New',monospace}\n.tile .desc{font-size:.85rem;opacity:.7;margin-top:8px}\n.tile::after{content:'';position:absolute;right:0;top:0;width:40px;height:40px;background:var(--wine-light);clip-path:polygon(100% 0,0 0,100% 100%)}\n\n/* Section heading */\n.section-head{margin:80px 0 32px;border-bottom:1px solid var(--cream);padding-bottom:16px}\n.section-head h2{font-size:1.8rem;margin-bottom:8px}\n.section-head .meta{font-size:.8rem;color:var(--muted);letter-spacing:1px}\n\n/* Narrative */\n.narrative{max-width:680px;font-size:1.05rem;color:#3a3a3a;margin-bottom:60px}\n.narrative p{margin-bottom:20px}\n.narrative p:first-letter{font-size:3rem;float:left;line-height:1;color:var(--wine);padding-right:8px;font-weight:700}\n\n/* Cards - 左侧色条标记 */\n.card-list{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;margin:40px 0}\n.card{background:#fff;padding:24px 28px;border-left:6px solid var(--wine);box-shadow:0 1px 3px rgba(110,20,35,.06)}\n.card h3{font-size:1.15rem;margin-bottom:12px}\n.card p{font-size:.95rem;color:#4a4a4a}\n\n/* Plans - 阶梯式递进排列 */\n.plans{margin:60px 0}\n.plans-track{display:flex;flex-direction:column;gap:24px}\n.plan{background:#fff;border-left:6px solid var(--wine-light);padding:32px 40px;display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:24px;align-items:center}\n.plan.featured{border-left-color:var(--wine);background:linear-gradient(to right,#fff,#FBF6F0);transform:translateX(32px);box-shadow:0 4px 12px rgba(110,20,35,.12)}\n.plan.premium{transform:translateX(64px);border-left-width:8px}\n.plan-name{font-size:1.3rem;color:var(--wine-deep)}\n.plan-price{font-size:1.8rem;font-weight:700;color:var(--wine);font-family:'Courier New',monospace}\n.plan-price .unit{font-size:.9rem;color:var(--muted)}\n.plan-annual{font-size:.85rem;color:var(--muted);margin-top:4px}\n.plan-features{list-style:none;font-size:.9rem}\n.plan-features li{padding:4px 0;border-bottom:1px dotted var(--cream)}\n.plan-features li:last-child{border:none}\n.plan-tag{display:inline-block;background:var(--wine);color:var(--ivory);padding:2px 12px;font-size:.75rem;margin-bottom:8px}\n\n/* FAQ - 按主题分组 */\n.faq{margin:60px 0}\n.faq-group{margin-bottom:40px}\n.faq-group h3{font-size:1.1rem;margin-bottom:16px;color:var(--wine);border-bottom:2px solid var(--cream);padding-bottom:8px}\n.faq-item{margin-bottom:16px;padding:16px 0}\n.faq-item .q{font-weight:700;color:var(--wine-deep);margin-bottom:8px}\n.faq-item .a{font-size:.95rem;color:#4a4a4a}\n\n/* Bottom Nav */\n.bottom-nav{position:fixed;bottom:0;left:0;right:0;background:var(--wine-deep);color:var(--ivory);padding:18px 24px;display:flex;justify-content:center;gap:32px;font-size:.85rem;z-index:100}\n.bottom-nav a{color:var(--ivory);border:none;opacity:.8}\n.bottom-nav a:hover{opacity:1;background:none;text-decoration:underline}\n\n@media(max-width:768px){\n  .dashboard{grid-template-columns:repeat(2,1fr)}\n  .tile.wide{grid-column:span 2}\n  .card-list{grid-template-columns:1fr}\n  .plan{grid-template-columns:1fr;transform:none!important}\n  .hero h1{font-size:2.2rem}\n}\n</style><section class=\"hero\">\n  <div class=\"hero-inner\">\n    <h1>次元雲</h1>\n    <p class=\"tagline\">隐匿于喧嚣之外，专注每一次连接。我们不卖口号，只交付质量。</p>\n    <div class=\"dashboard\">\n      <div class=\"tile wide tall\">\n        <span class=\"label\">运行状态</span>\n        <span class=\"value\">99.7%</span>\n        <span class=\"desc\">近30日链路可用性监测，基于多源探针采样。</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"label\">中继节点</span>\n        <span class=\"value\">42</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"label\">覆盖区域</span>\n        <span class=\"value\">11</span>\n      </div>\n      <div class=\"tile wide\">\n        <span class=\"label\">订阅者</span>\n        <span class=\"value\">8,300+</span>\n        <span class=\"desc\">来自设计与开发领域的长期用户。</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"label\">专线占比</span>\n        <span class=\"value\">35%</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"label\">工单响应</span>\n        <span class=\"value\">&lt;15m</span>\n      </div>\n    </div>\n  </div>\n</section>\n\n<main>\n\n<article class=\"narrative\">\n  <p>次元雲诞生于一个简单的执念：网络中继不应是一件需要时刻担忧的事。过去几年，我们见过太多承诺\"极速\"的服务，却少有人愿意在中继质量上做笨功夫。我们选择了一条不那么讨巧的路——减少节点数量，提升单链路质量，把维护成本花在看不见的地方。</p>\n  <p>这里没有\"全球加速\"的营销话术，也没有几百个节点的壮观列表。我们只维护四十余个节点，但每一个都经过带宽预留与延迟测试。对于流媒体、远程办公与轻度游戏，这些节点足够胜任。对于追求极致低延迟的竞技场景，我们坦诚地说：这不是我们的主战场。</p>\n  <p>订阅意味着信任，我们以克制定价与稳定服务回报这份信任。</p>\n</article>\n\n<section class=\"card-list\">\n  <div class=\"card\">\n    <h3>带宽预留制</h3>\n    <p>每个节点按订阅人数比例预留带宽上限，不超售。高峰期速率不会骤降，因为从一开始就没有承诺不可承受的峰值。</p>\n  </div>\n  <div class=\"card\">\n    <h3>专线与中继混合</h3>\n    <p>IPLC专线用于对延迟敏感的场景，普通中继线路用于日常浏览与流媒体。两者在客户端中以标签区分，按需选择。</p>\n  </div>\n  <div class=\"card\">\n    <h3>零日志策略</h3>\n    <p>服务端不记录访问目标与传输内容，仅保留订阅有效期与流量计数。节点配置面向隐私优先，不存储可追溯的用户行为数据。</p>\n  </div>\n  <div class=\"card\">\n    <h3>客户端兼容</h3>\n    <p>订阅链接兼容主流客户端，包括Clash、V2rayN、Quantumult X与Shadowrocket。不绑定专有软件，你有选择工具的自由。</p>\n  </div>\n</section>\n\n<section class=\"plans\">\n  <div class=\"section-head\">\n    <h2>订阅方案</h2>\n    <div class=\"meta\">阶梯式递进 · 按需求选择</div>\n  </div>\n\n  <div class=\"plans-track\">\n    <div class=\"plan\">\n      <div>\n        <div class=\"plan-name\">基础版</div>\n        <div class=\"plan-price\">¥15<span class=\"unit\">/月</span></div>\n        <div class=\"plan-annual\">按年付 ¥150/年</div>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 100GB 流量额度</li>\n        <li>3 台设备同时在线</li>\n        <li>基础流媒体区域解锁</li>\n        <li>普通线路节点池</li>\n        <li>标准工单支持</li>\n      </ul>\n      <div>适合个人日常使用</div>\n    </div>\n\n    <div class=\"plan featured\">\n      <div>\n        <div class=\"plan-tag\">推荐</div>\n        <div class=\"plan-name\">旗舰版</div>\n        <div class=\"plan-price\">¥35<span class=\"unit\">/月</span></div>\n        <div class=\"plan-annual\">按年付 ¥350/年</div>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 300GB 流量额度</li>\n        <li>5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n      <div>适合重度流媒体与游戏</div>\n    </div>\n\n    <div class=\"plan premium\">\n      <div>\n        <div class=\"plan-name\">团队版</div>\n        <div class=\"plan-price\">¥85<span class=\"unit\">/月</span></div>\n        <div class=\"plan-annual\">按年付 ¥850/年</div>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 1000GB 流量额度</li>\n        <li>20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <div>适合小型团队与企业</div>\n    </div>\n  </div>\n</section>\n\n<section class=\"faq\">\n  <div class=\"section-head\">\n    <h2>常见问题</h2>\n    <div class=\"meta\">按主题分组 · 逐条作答</div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>订阅与支付</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">如何获取订阅链接？</div>\n      <div class=\"a\">完成支付后，系统自动向注册邮箱发送订阅链接。登录账户后台亦可随时查看与复制。链接本身是一串通用格式的配置地址，导入客户端即可使用。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">支持哪些支付方式？</div>\n      <div class=\"a\">目前支持支付宝、微信支付与部分加密货币。如果你有其他支付需求，可联系工单确认可行性。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">月付与年付有什么区别？</div>\n      <div class=\"a\">功能权益完全一致，年付相当于以优惠价格预付12个月。我们不强制年付，也欢迎月付长期订阅。</div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>使用与兼容</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">支持哪些客户端？</div>\n      <div class=\"a\">订阅链接采用通用格式，兼容 Clash、Clash Meta、V2rayN、Quantumult X、Shadowrocket、Surge 等主流客户端。我们不开发专有软件，也不强制用户使用特定工具。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">在路由器上可以使用吗？</div>\n      <div class=\"a\">可以。只要你的路由器固件支持标准订阅格式（如 OpenWrt 配合 Clash 内核），即可导入使用。团队版用户如需定制路由配置，可联系客户经理协助。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">流媒体解锁覆盖哪些区域？</div>\n      <div class=\"a\">基础版覆盖常见区域，旗舰版与团队版覆盖全节点原生解锁。具体区域因节点变动而调整，详情可在客户端节点标签中查看。</div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>隐私与政策</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">你们记录用户的访问日志吗？</div>\n      <div class=\"a\">不记录。服务端仅保留订阅有效期与累计流量计数，用于额度管理。我们不存储访问目标、传输内容或DNS查询记录。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">流量用尽后会怎样？</div>\n      <div class=\"a\">流量耗尽后中继连接将暂停，订阅账户后台会提示额度已满。你可以选择升级方案或等待下月额度重置。不会产生额外扣费。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">可以申请退款吗？</div>\n      <div class=\"a\">订阅开通后72小时内且流量使用未超过5GB，可申请全额退款。超出此范围则不予退款，请在订阅前确认需求。</div>\n    </div>\n  </div>\n</section>\n\n</main>\n\n<nav class=\"bottom-nav\">\n  <a href=\"#hero\">首页</a>\n  <a href=\"#features\">特性</a>\n  <a href=\"#plans\">方案</a>\n  <a href=\"#faq\">问答</a>\n  <a href=\"#\">登录</a>\n</nav>",
+          "hash": "1763010e61792d4df9c8a57eaf45067dab30deb4f9d1f7e01d02309967e6d4b3",
+          "seo": {
+            "title": "次元雲 | 隐匿于喧嚣之外，专注每一次连接",
+            "keywords": "次元雲,网络代理,专线加速,IPLC,流媒体解锁,隐私保护",
+            "description": "次元雲致力于提供稳定、私密、克制的网络中继服务。以专线质量与订阅体验为先，不喧嚣，不妥协。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "2067",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "weipanw.cn",
+    "host": "p-6944ae2541.weipanw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cddb6e6d01e796447f81ac3e47bd1f3292261f6322c3f4b762518e5db38e4264",
+    "sitemap.xml": "33ab4f5c3eb9b391cc6e437d9c6f8379dca3a65c11a42e39e13d4fd1e074a716",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8be5ded4ad1bdb618938afe47ee7511495b6ba953f025fae2c02588c2f659b2f",
+    "robots.txt": "f95b8bceeedca75d9a60671115a325826320fabc7ad17b893921e1f903428205",
+    "72cc8645380e08c7d3ad65d36148ea04.txt": "60cab73e46cd1a44f90755342a01a5cbb05d26123e978e63a94b4ee378a75307"
+  },
+  "revision": "66fc9dc8c62a2034dfa47933bf1d97549e2b9a25ba6d25e8249a82d7198ba855"
+}
